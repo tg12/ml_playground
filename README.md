@@ -42,6 +42,9 @@ This pipeline operationalizes a regime filter grounded in European storage dynam
 
 This traffic-light summary is deliberately verbose so you can slide the regime output into your own monitor and immediately see which countries are worth digging into.
 
+<img width="2375" height="1109" alt="image" src="https://github.com/user-attachments/assets/3c6053a9-2480-4d33-9f2d-09b279391e71" />
+
+
 ### Coinbase candle sequence forecast
 
 The goal here is to maintain a price-only comparator that can uncover volatility or order-flow features the storage models cannot see. It doubles as a humility check if the price-only model behaves predictably while total flows misfire, we know which signals to trust. The research approach:
